@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "587769443792",
+    "firebase_url": "https://agriguideflutterapp.firebaseio.com",
+    "project_id": "agriguideflutterapp",
+    "storage_bucket": "agriguideflutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587769443792:android:941ca56d4a1853748af5d5",
+        "android_client_info": {
+          "package_name": "com.agriguide.agri_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587769443792-r0rehjsdm4pliqn47ltck42u0u8e5qgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIKAXr9hMc8l8HarXH3Hyhj6rnT0zsMdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587769443792-r0rehjsdm4pliqn47ltck42u0u8e5qgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
